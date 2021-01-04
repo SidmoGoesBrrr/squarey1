@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 553b864723a99e34c98222d64f02eea1
+guid: 64586519a23453f43ae09dcdbe573f86
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Poppkorn
+  fontName: Cute Notes
   fontNames:
-  - Poppkorn
+  - Cute Notes
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
